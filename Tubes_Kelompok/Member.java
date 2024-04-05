@@ -1,4 +1,5 @@
 // Contoh penerapan kelas abstrak
+// Kelas Member, VIP, Umum mengimplementasikan Visibility yang dimana kelasnya hanya dapat diacces oleh orangtua serta turunannya saja
 public abstract class Member {
     private String nama;
     private String role;
