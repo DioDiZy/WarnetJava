@@ -1,4 +1,5 @@
-class Umum extends Member {
+// Implementasi kelas turunan dari kelas member
+public class Umum extends Member {
     public Umum(String nama) {
         super(nama, "Umum");
     }
