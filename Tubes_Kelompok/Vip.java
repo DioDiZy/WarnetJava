@@ -1,3 +1,4 @@
+// Implementasi turunan/ inheritance dari kelas member
 class Vip extends Member {
     public Vip(String nama) {
         super(nama, "VIP");
