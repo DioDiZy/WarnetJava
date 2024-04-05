@@ -1,3 +1,4 @@
+// Contoh penerapan kelas abstrak
 public abstract class Member {
     private String nama;
     private String role;
@@ -15,5 +16,5 @@ public abstract class Member {
         return role;
     }
 
-    public abstract int getHargaPerJam();
+    public abstract int getHargaPerJam(); //Penggunakan metode abstrak
 }
